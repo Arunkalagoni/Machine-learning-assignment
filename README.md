@@ -1,5 +1,4 @@
 # Machine-learning-assignment
-This repository contains the solutions for all questions, with the video link
 
 Question 10 –
  
